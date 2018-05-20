@@ -1,0 +1,11 @@
+C:\Users\oscar.DESKTOP-C5VK8HG\source\repos\Employee\Employee\bin\Debug\Employee.exe.config
+C:\Users\oscar.DESKTOP-C5VK8HG\source\repos\Employee\Employee\bin\Debug\Employee.exe
+C:\Users\oscar.DESKTOP-C5VK8HG\source\repos\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\oscar.DESKTOP-C5VK8HG\source\repos\Employee\Employee\bin\Debug\EntityFramework.dll
+C:\Users\oscar.DESKTOP-C5VK8HG\source\repos\Employee\Employee\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\oscar.DESKTOP-C5VK8HG\source\repos\Employee\Employee\bin\Debug\EntityFramework.xml
+C:\Users\oscar.DESKTOP-C5VK8HG\source\repos\Employee\Employee\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\oscar.DESKTOP-C5VK8HG\source\repos\Employee\Employee\obj\Debug\Employee.Model.csprojResolveAssemblyReference.cache
+C:\Users\oscar.DESKTOP-C5VK8HG\source\repos\Employee\Employee\obj\Debug\Employee.Model.csproj.CoreCompileInputs.cache
+C:\Users\oscar.DESKTOP-C5VK8HG\source\repos\Employee\Employee\obj\Debug\Employee.exe
+C:\Users\oscar.DESKTOP-C5VK8HG\source\repos\Employee\Employee\obj\Debug\Employee.pdb
